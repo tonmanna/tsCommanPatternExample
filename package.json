@@ -1,0 +1,11 @@
+{
+  "name": "decoratorclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tslint -c tslint.json 'src/**/*.ts'"
+  },
+  "author": "",
+  "license": "ISC"
+}
